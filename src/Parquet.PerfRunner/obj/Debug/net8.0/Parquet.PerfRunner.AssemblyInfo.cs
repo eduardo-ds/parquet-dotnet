@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Parquet.PerfRunner")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+67f77d7c89d48aee427b1ed756b42481259734d8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Parquet.PerfRunner")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Parquet.PerfRunner")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

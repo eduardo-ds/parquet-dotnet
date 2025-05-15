@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\eduar\\GITHUB\\parquet-dotnet-master\\src\\",
+  "WorkspaceRootPath": "C:\\Users\\eduar\\GITHUB\\parquet-dotnet\\src\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{882BE8ED-7F5F-4392-8884-CF602622E569}|Parquet.Floor\\Parquet.Floor.csproj|c:\\users\\eduar\\github\\parquet-dotnet-master\\src\\parquet.floor\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{882BE8ED-7F5F-4392-8884-CF602622E569}|Parquet.Floor\\Parquet.Floor.csproj|c:\\users\\eduar\\github\\parquet-dotnet\\src\\parquet.floor\\parquet.floor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{882BE8ED-7F5F-4392-8884-CF602622E569}|Parquet.Floor\\Parquet.Floor.csproj|solutionrelative:parquet.floor\\parquet.floor.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882BE8ED-7F5F-4392-8884-CF602622E569}|Parquet.Floor\\Parquet.Floor.csproj|c:\\users\\eduar\\github\\parquet-dotnet\\src\\parquet.floor\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{882BE8ED-7F5F-4392-8884-CF602622E569}|Parquet.Floor\\Parquet.Floor.csproj|solutionrelative:parquet.floor\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,10 +23,22 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Parquet.Floor",
+              "DocumentMoniker": "C:\\Users\\eduar\\GITHUB\\parquet-dotnet\\src\\Parquet.Floor\\Parquet.Floor.csproj",
+              "RelativeDocumentMoniker": "Parquet.Floor\\Parquet.Floor.csproj",
+              "ToolTip": "C:\\Users\\eduar\\GITHUB\\parquet-dotnet\\src\\Parquet.Floor\\Parquet.Floor.csproj",
+              "RelativeToolTip": "Parquet.Floor\\Parquet.Floor.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-15T13:43:15.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "App.axaml.cs",
-              "DocumentMoniker": "C:\\Users\\eduar\\GITHUB\\parquet-dotnet-master\\src\\Parquet.Floor\\App.axaml.cs",
+              "DocumentMoniker": "C:\\Users\\eduar\\GITHUB\\parquet-dotnet\\src\\Parquet.Floor\\App.axaml.cs",
               "RelativeDocumentMoniker": "Parquet.Floor\\App.axaml.cs",
-              "ToolTip": "C:\\Users\\eduar\\GITHUB\\parquet-dotnet-master\\src\\Parquet.Floor\\App.axaml.cs",
+              "ToolTip": "C:\\Users\\eduar\\GITHUB\\parquet-dotnet\\src\\Parquet.Floor\\App.axaml.cs",
               "RelativeToolTip": "Parquet.Floor\\App.axaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

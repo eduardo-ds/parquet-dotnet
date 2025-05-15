@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eduar\\GITHUB\\parquet-dotnet-master\\src\\Parquet\\Parquet.csproj": {}
+    "C:\\Users\\eduar\\GITHUB\\parquet-dotnet\\src\\Parquet\\Parquet.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eduar\\GITHUB\\parquet-dotnet-master\\src\\Parquet\\Parquet.csproj": {
+    "C:\\Users\\eduar\\GITHUB\\parquet-dotnet\\src\\Parquet\\Parquet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eduar\\GITHUB\\parquet-dotnet-master\\src\\Parquet\\Parquet.csproj",
+        "projectUniqueName": "C:\\Users\\eduar\\GITHUB\\parquet-dotnet\\src\\Parquet\\Parquet.csproj",
         "projectName": "Parquet.Net",
-        "projectPath": "C:\\Users\\eduar\\GITHUB\\parquet-dotnet-master\\src\\Parquet\\Parquet.csproj",
+        "projectPath": "C:\\Users\\eduar\\GITHUB\\parquet-dotnet\\src\\Parquet\\Parquet.csproj",
         "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eduar\\GITHUB\\parquet-dotnet-master\\src\\Parquet\\obj\\",
+        "outputPath": "C:\\Users\\eduar\\GITHUB\\parquet-dotnet\\src\\Parquet\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

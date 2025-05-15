@@ -1,6 +1,6 @@
 is_global = true
 build_property.RootNamespace = Parquet
-build_property.ProjectDir = C:\Users\eduar\GITHUB\parquet-dotnet-master\src\Parquet\
+build_property.ProjectDir = C:\Users\eduar\GITHUB\parquet-dotnet\src\Parquet\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.CsWinRTUseWindowsUIXamlProjections = false

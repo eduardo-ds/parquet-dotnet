@@ -1990,11 +1990,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\eduar\\GITHUB\\parquet-dotnet-master\\src\\Parquet.PerfRunner\\Parquet.PerfRunner.csproj",
+      "projectUniqueName": "C:\\Users\\eduar\\GITHUB\\parquet-dotnet\\src\\Parquet.PerfRunner\\Parquet.PerfRunner.csproj",
       "projectName": "Parquet.PerfRunner",
-      "projectPath": "C:\\Users\\eduar\\GITHUB\\parquet-dotnet-master\\src\\Parquet.PerfRunner\\Parquet.PerfRunner.csproj",
+      "projectPath": "C:\\Users\\eduar\\GITHUB\\parquet-dotnet\\src\\Parquet.PerfRunner\\Parquet.PerfRunner.csproj",
       "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\eduar\\GITHUB\\parquet-dotnet-master\\src\\Parquet.PerfRunner\\obj\\",
+      "outputPath": "C:\\Users\\eduar\\GITHUB\\parquet-dotnet\\src\\Parquet.PerfRunner\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2016,8 +2016,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\eduar\\GITHUB\\parquet-dotnet-master\\src\\Parquet\\Parquet.csproj": {
-              "projectPath": "C:\\Users\\eduar\\GITHUB\\parquet-dotnet-master\\src\\Parquet\\Parquet.csproj"
+            "C:\\Users\\eduar\\GITHUB\\parquet-dotnet\\src\\Parquet\\Parquet.csproj": {
+              "projectPath": "C:\\Users\\eduar\\GITHUB\\parquet-dotnet\\src\\Parquet\\Parquet.csproj"
             }
           }
         }

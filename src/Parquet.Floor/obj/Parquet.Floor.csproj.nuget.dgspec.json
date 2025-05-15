@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eduar\\GITHUB\\parquet-dotnet-master\\src\\Parquet.Floor\\Parquet.Floor.csproj": {}
+    "C:\\Users\\eduar\\GITHUB\\parquet-dotnet\\src\\Parquet.Floor\\Parquet.Floor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eduar\\GITHUB\\parquet-dotnet-master\\src\\Parquet.Floor\\Parquet.Floor.csproj": {
+    "C:\\Users\\eduar\\GITHUB\\parquet-dotnet\\src\\Parquet.Floor\\Parquet.Floor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eduar\\GITHUB\\parquet-dotnet-master\\src\\Parquet.Floor\\Parquet.Floor.csproj",
+        "projectUniqueName": "C:\\Users\\eduar\\GITHUB\\parquet-dotnet\\src\\Parquet.Floor\\Parquet.Floor.csproj",
         "projectName": "floor",
-        "projectPath": "C:\\Users\\eduar\\GITHUB\\parquet-dotnet-master\\src\\Parquet.Floor\\Parquet.Floor.csproj",
+        "projectPath": "C:\\Users\\eduar\\GITHUB\\parquet-dotnet\\src\\Parquet.Floor\\Parquet.Floor.csproj",
         "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eduar\\GITHUB\\parquet-dotnet-master\\src\\Parquet.Floor\\obj\\",
+        "outputPath": "C:\\Users\\eduar\\GITHUB\\parquet-dotnet\\src\\Parquet.Floor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,7 +22,7 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net9.0"
+          "net8.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -30,11 +30,11 @@
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net9.0": {
-            "targetAlias": "net9.0",
+          "net8.0": {
+            "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\eduar\\GITHUB\\parquet-dotnet-master\\src\\Parquet\\Parquet.csproj": {
-                "projectPath": "C:\\Users\\eduar\\GITHUB\\parquet-dotnet-master\\src\\Parquet\\Parquet.csproj"
+              "C:\\Users\\eduar\\GITHUB\\parquet-dotnet\\src\\Parquet\\Parquet.csproj": {
+                "projectPath": "C:\\Users\\eduar\\GITHUB\\parquet-dotnet\\src\\Parquet\\Parquet.csproj"
               }
             }
           }
@@ -52,8 +52,8 @@
         "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
-        "net9.0": {
-          "targetAlias": "net9.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "dependencies": {
             "ActiproSoftware.Controls.Avalonia": {
               "target": "Package",
@@ -102,7 +102,7 @@
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[9.0.5, )",
+              "version": "[8.0.16, )",
               "autoReferenced": true
             },
             "Projektanker.Icons.Avalonia": {
@@ -134,14 +134,14 @@
         }
       }
     },
-    "C:\\Users\\eduar\\GITHUB\\parquet-dotnet-master\\src\\Parquet\\Parquet.csproj": {
+    "C:\\Users\\eduar\\GITHUB\\parquet-dotnet\\src\\Parquet\\Parquet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eduar\\GITHUB\\parquet-dotnet-master\\src\\Parquet\\Parquet.csproj",
+        "projectUniqueName": "C:\\Users\\eduar\\GITHUB\\parquet-dotnet\\src\\Parquet\\Parquet.csproj",
         "projectName": "Parquet.Net",
-        "projectPath": "C:\\Users\\eduar\\GITHUB\\parquet-dotnet-master\\src\\Parquet\\Parquet.csproj",
+        "projectPath": "C:\\Users\\eduar\\GITHUB\\parquet-dotnet\\src\\Parquet\\Parquet.csproj",
         "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eduar\\GITHUB\\parquet-dotnet-master\\src\\Parquet\\obj\\",
+        "outputPath": "C:\\Users\\eduar\\GITHUB\\parquet-dotnet\\src\\Parquet\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
