@@ -25,18 +25,18 @@ class Program {
         using(var mutex = new Mutex(true, MutexName, out bool isNewInstance)) {
             if(!isNewInstance) {
                 // If another instance is already running, send data to it and exit
-                using(var client = new NamedPipeClientStream(PipeName)) {
-                    client.Connect();
-                    using(var writer = new StreamWriter(client)) {
-                        writer.WriteLine(string.Join(" ", args));
-                        writer.Flush();
-                    }
-                }
+                //using(var client = new NamedPipeClientStream(PipeName)) {
+                //    //client.Connect();
+                //    using(var writer = new StreamWriter(client)) {
+                //        writer.WriteLine(string.Join(" ", args));
+                //        writer.Flush();
+                //    }
+                //}
                 return;
             }
 
             // Start a new thread to listen for incoming data
-            ListenForDataAsync().Forget();
+            //ListenForDataAsync().Forget();
 
             Tracker.Instance = new Tracker("floor", Globals.Version);
             Tracker.Instance.Constants.Add("iid", Settings.Instance.InstanceId.ToString());

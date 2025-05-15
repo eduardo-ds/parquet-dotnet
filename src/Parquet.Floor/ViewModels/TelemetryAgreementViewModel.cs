@@ -7,19 +7,14 @@ namespace Parquet.Floor.ViewModels {
         [ObservableProperty]
         private bool _agreementPassed;
 
-        public TelemetryAgreementViewModel() {
-
+        public TelemetryAgreementViewModel()
+        {
             AgreementPassed = Settings.Instance.TelemetryAgreementPassed;
-
-#if DEBUG
-            if(Design.IsDesignMode) {
-                AgreementPassed = false;
-            }
-#endif
+            AgreementPassed = false;
         }
 
         public void Agree() {
-            MakeDecision(true);
+            MakeDecision(false);
         }
 
         public void OptOut() {
@@ -27,8 +22,8 @@ namespace Parquet.Floor.ViewModels {
         }
 
         private void MakeDecision(bool optIn) {
-            AgreementPassed = true;
-            Settings.Instance.TelemetryAgreementPassed = true;
+            AgreementPassed = false;
+            Settings.Instance.TelemetryAgreementPassed = false;
         }
     }
 }

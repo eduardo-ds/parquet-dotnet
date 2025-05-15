@@ -9,3 +9,15 @@ C:\Users\eduar\GITHUB\parquet-dotnet-master\src\Parquet\obj\Debug\netstandard2.1
 C:\Users\eduar\GITHUB\parquet-dotnet-master\src\Parquet\obj\Debug\netstandard2.1\Parquet.csproj.CoreCompileInputs.cache
 C:\Users\eduar\GITHUB\parquet-dotnet-master\src\Parquet\obj\Debug\netstandard2.1\Parquet.dll
 C:\Users\eduar\GITHUB\parquet-dotnet-master\src\Parquet\obj\Debug\netstandard2.1\Parquet.pdb
+C:\Users\eduar\GITHUB\parquet-dotnet\src\Parquet\bin\Debug\netstandard2.1\Parquet.xml
+C:\Users\eduar\GITHUB\parquet-dotnet\src\Parquet\bin\Debug\netstandard2.1\Parquet.deps.json
+C:\Users\eduar\GITHUB\parquet-dotnet\src\Parquet\bin\Debug\netstandard2.1\Parquet.dll
+C:\Users\eduar\GITHUB\parquet-dotnet\src\Parquet\bin\Debug\netstandard2.1\Parquet.pdb
+C:\Users\eduar\GITHUB\parquet-dotnet\src\Parquet\obj\Debug\netstandard2.1\Parquet.csproj.AssemblyReference.cache
+C:\Users\eduar\GITHUB\parquet-dotnet\src\Parquet\obj\Debug\netstandard2.1\Parquet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\GITHUB\parquet-dotnet\src\Parquet\obj\Debug\netstandard2.1\Parquet.AssemblyInfoInputs.cache
+C:\Users\eduar\GITHUB\parquet-dotnet\src\Parquet\obj\Debug\netstandard2.1\Parquet.AssemblyInfo.cs
+C:\Users\eduar\GITHUB\parquet-dotnet\src\Parquet\obj\Debug\netstandard2.1\Parquet.csproj.CoreCompileInputs.cache
+C:\Users\eduar\GITHUB\parquet-dotnet\src\Parquet\obj\Debug\netstandard2.1\Parquet.sourcelink.json
+C:\Users\eduar\GITHUB\parquet-dotnet\src\Parquet\obj\Debug\netstandard2.1\Parquet.dll
+C:\Users\eduar\GITHUB\parquet-dotnet\src\Parquet\obj\Debug\netstandard2.1\Parquet.pdb
