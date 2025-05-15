@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Parquet.Data.Analysis</name>
+    </assembly>
+    <members>
+        <member name="T:Parquet.AnalysisExtensions">
+            <summary>
+            Defines extension methods to simplify Parquet usage
+            </summary>
+        </member>
+        <member name="M:Parquet.AnalysisExtensions.ReadParquetAsDataFrameAsync(System.IO.Stream,System.Threading.CancellationToken)">
+            <summary>
+            
+            </summary>
+            <param name="inputStream"></param>
+            <param name="cancellationToken"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Parquet.AnalysisExtensions.WriteAsync(Microsoft.Data.Analysis.DataFrame,System.IO.Stream,System.Threading.CancellationToken)">
+            <summary>
+            
+            </summary>
+            <param name="df"></param>
+            <param name="outputStream"></param>
+            <param name="cancellationToken"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
